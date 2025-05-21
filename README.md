@@ -13,7 +13,7 @@ The goal is to assist operators, analysts, or managers in quickly understanding 
 ##  Example
 
 ###  Input (raw log text)
-
+```markdown
 [08:00] Camera 1: A customer enters.
 [08:05] Camera 2: Customer looks at the beverage shelves.
 [08:07] Camera 3: Customer hesitates between two products.
@@ -24,7 +24,7 @@ The goal is to assist operators, analysts, or managers in quickly understanding 
 [08:30] Camera 2: First customer returns to the fresh food section.
 [08:35] Camera 3: One customer puts back a product.
 [08:40] Camera 1: Both customers exit the store.
-
+```
 
 ###  Expected Output (summary)
 

@@ -10,9 +10,9 @@ In settings where video footage generates long, low-level event logs, this tool 
 The goal is to assist operators, analysts, or managers in quickly understanding what happened without having to read raw logs line by line.
 
 ---
-## 📁 Example
+##  Example
 
-### 📝 Input (raw log text)
+###  Input (raw log text)
 
 [08:00] Camera 1: A customer enters.
 [08:05] Camera 2: Customer looks at the beverage shelves.
@@ -32,7 +32,7 @@ The goal is to assist operators, analysts, or managers in quickly understanding 
 > Around 8:20, two additional customers arrived, briefly interacted in the central aisle, browsed the store, and left before 8:45.
 
 ---
-## 🚀 Getting Started
+##  Getting Started
 
 ### Install dependencies
 

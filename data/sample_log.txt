@@ -1,0 +1,6 @@
+[08:00] Camera 1: A customer enters.
+[08:05] Camera 2: Customer looks at the beverage shelves.
+[08:07] Camera 3: Customer hesitates between two products.
+[08:10] Camera 2: Customer places an item in their basket.
+[08:12] Camera 1: Customer leaves the frame.
+

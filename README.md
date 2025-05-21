@@ -54,9 +54,11 @@ python src/summarize_logs.py
 ##  Contributions
 
 Contributions are welcome to:
+
 - Enhance the summarization pipeline
 - Add new summarization modes or data sources
 - Apply the system to new domains (logistics, retail analytics, security)
+- Integration with real-world public surveillance datasets (e.g., VIRAT, UCF-Crime) to test on realistic activity logs
 
 Feel free to open an issue or a pull request!
 
